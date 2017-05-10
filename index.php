@@ -6,15 +6,9 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-	<table>
+	<table border="1">
 		<tr>
-			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/newapp-icon.png'>
-			</td>
-			<td>
-				<h1 id = "message"><?php echo "Hello WorldCC!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
-			</td>
+			<td>jgvjhjhvjhg</td>
 		</tr>
 	</table>
 </body>
